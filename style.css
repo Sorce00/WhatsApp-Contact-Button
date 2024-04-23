@@ -1,6 +1,6 @@
 .whatsapp-btn-container {
     position: fixed;
-    right: 30px;
+    left: 30px;
     opacity: 0;
     bottom: -50px;
     padding: 24px;
